@@ -1,0 +1,45 @@
+there is problem coming in reslvong python interpreter path:-
+how to solve  it::>
+
+1 - select the interpreter option 
+2- the reach "find"        option
+3- and paste "C:\Users\hp\AppData\Local\Programs\Python\Python310" this link in file-finder
+
+
+
+##########################################
+# ORACALE
+http://127.0.0.1:8080/apex/f?p=4500:1000:2671609826895054::NO:::'
+
+username = system
+password = shubhanshu
+
+#################################### THYLESS SYSTEM #################################
+
+1> if downtrend no nees for back-search to check the age of downtrend,,
+
+2> if uptrend find the age of  trend and classify it [new_born , teen, mature]
+
+1> new_born = newly uptrend potential formation (extreme signal to buy shares) [(heavy buy call)]
+2> teen  =    middle of uptrend (buy signal)  [(moderate buy call)]
+3> mature =   end or near to end uptrend (no recomendations) 
+
+
+@ ---------------------------- IMPORTANT SQL CODES ---------------------------
+
+INSERT INTO employee_new (emp_id,salary, desg,name_data) VALUES ('a',1200,'doctor','shubhanshu mishra');
+
+
+#---------------------------------------- whahtsapp code sjharing -------------------
+
+you have to modify __init__ method when class is copied from whatsapp code
+
+
+#---------------------------------------- intraday important points -------------------
+
+end_date = str(datetime.date.today())
+start_date = str(datetime.date.today()- datetime.timedelta(10))
+data_raw = yf.download(tickers="RELIANCE.NS",period = "5d",interval = "30m")
+data_raw.tail(50)
+
+

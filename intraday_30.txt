@@ -1,0 +1,7 @@
+ZOMATO.NS -------------
+NAM-INDIA.NS
+TANLA.NS
+BCG.NS -------------
+BSOFT.NS
+NIITLTD.NS
+NAZARA.NS  # possible stock
